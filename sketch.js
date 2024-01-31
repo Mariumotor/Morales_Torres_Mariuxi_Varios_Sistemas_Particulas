@@ -1,7 +1,7 @@
 let s;
 let v;
 let p;
-
+//variables
 function setup() {
 	createCanvas(windowWidth, windowHeight);
 	s = new Sistema();
